@@ -1,0 +1,741 @@
+.landing_page {
+  position: absolute;
+  width: 1920px;
+  height: 1080px;
+  left: 0px;
+  top: 0px;
+
+
+  background: #1a26d4;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.navbar {
+
+  position: absolute;
+  width: 1890px;
+  height: 63px;
+
+  margin: 10px;
+
+
+  border: 1px solid #C4C4C4;
+  box-sizing: border-box;
+
+}
+
+
+.ux_projects {
+
+  position: absolute;
+  width: 439px;
+  height: 48px;
+  left: 140px;
+  top: 30px;
+
+  margin: 5px;
+
+
+
+  font-family: ABC Favorit Mono Trial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 108.5%;
+
+  letter-spacing: 0.165em;
+
+  color: #FFFFFF;
+
+
+}
+
+.rectangle_1 {
+  position: absolute;
+  width: 512px;
+  height: 281.76px;
+  left: 143px;
+  top: 125px;
+
+
+
+  background: rgba(255, 255, 255, 0.86);
+}
+
+.breath_app_inside {
+  position: absolute;
+  width: 151.52px;
+  height: 34.39px;
+  left: 314.08px;
+  top: 238px;
+
+  margin: 20px;
+
+  font-family: ABC Favorit Mono Trial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 151.5%;
+
+  letter-spacing: 0.165em;
+
+  color: rgba(26, 38, 212, 0.64);
+}
+
+.breath_app_inside_yellow {
+  position: absolute;
+  width: 151.52px;
+  height: 28.4px;
+  left: 314.04px;
+  top: 260px;
+
+  font-family: ABC Favorit Mono Trial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 151.5%;
+
+  margin: 20px;
+
+  letter-spacing: 0.165em;
+
+  color: #f4f3ea;
+
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.Breath_App {
+  position: absolute;
+  width: 320px;
+  height: 54px;
+  left: 154px;
+  top: 419px;
+
+  font-family: ABC Favorit Trial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 11px;
+  letter-spacing: 0.165em;
+
+  color: #f4f3ea;
+}
+
+.year_2021_2022 {
+  position: absolute;
+  width: 320px;
+  height: 54px;
+  left: 154px;
+  top: 440px;
+
+  font-family: ABC Favorit Trial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 80%;
+
+  letter-spacing: 0.165em;
+
+  color: #f4f3ea;
+}
+
+.rectangle_2 {
+  position: absolute;
+  width: 533px;
+  height: 284.23px;
+  left: 332px;
+  top: 520px;
+
+
+
+  background: rgba(255, 255, 255, 0.86);
+}
+
+.HeartAero_Space_inside {
+  position: absolute;
+  width: 261px;
+  height: 26px;
+  left: 490px;
+  top: 634px;
+
+  margin: 20px;
+
+  font-family: ABC Favorit Mono Trial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 151.5%;
+  letter-spacing: 0.165em;
+
+  color: rgba(26, 38, 212, 0.64);
+
+
+}
+
+.heartaero_space_inside_yellow {
+  position: absolute;
+  width: 237px;
+  height: 30px;
+  left: 490px;
+  top: 655px;
+
+  font-family: ABC Favorit Mono Trial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 151.5%;
+
+  margin: 20px;
+
+  letter-spacing: 0.165em;
+
+  color: #F4F3EA;
+
+  transform: matrix(1, 0, 0, -1, 0, 0);
+
+}
+
+.HeartAero_Space {
+  position: absolute;
+  width: 320px;
+  height: 54px;
+  left: 353px;
+  top: 816px;
+
+  font-family: ABC Favorit Trial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 11px;
+  letter-spacing: 0.165em;
+
+  color: #f4f3ea;
+}
+
+.year_2021 {
+  position: absolute;
+  width: 320px;
+  height: 54px;
+  left: 353px;
+  top: 840px;
+
+  font-family: ABC Favorit Trial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 80%;
+  letter-spacing: 0.165em;
+
+  color: #f4f3ea;
+}
+
+.hello-world-my-name {
+  position: absolute;
+  width: 604px;
+  height: 259px;
+  left: 1102px;
+  top: 257px;
+
+  font-family: ABC Favorit Lining Trial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 108.5%;
+  letter-spacing: 0.035em;
+
+  color: #f4f3ea;
+}
+
+.emelie {
+  color: #af47b1;
+}
+
+
+
+.info {
+  position: absolute;
+  top: 30px;
+}
+
+.other_projects {
+  position: absolute;
+  width: 170.99px;
+  height: 17.23px;
+  left: 600px;
+  top: 700px;
+  color: #f4f3ea;
+}
+
+.instagram {
+  position: absolute;
+  width: 170.99px;
+  height: 17.23px;
+  left: 600px;
+  top: 725px;
+  color: #f4f3ea;
+}
+
+.linkedIn {
+  position: absolute;
+  width: 170.99px;
+  height: 17.23px;
+  left: 600px;
+  top: 750px;
+}
+
+.vit_ruta {
+  position: absolute;
+  width: 12px;
+  height: 11px;
+  left: -1000px;
+  top: 750px;
+
+  background: #f4f3ea;
+}
+
+.info_emelie {
+  position: absolute;
+  top: -20px;
+  left: -40px;
+}
+
+.emelie_mattsson {
+  position: absolute;
+  width: 110px;
+  height: 49px;
+  left: -980px;
+  top: 750px;
+
+  font-family: ABC Favorit Mono Trial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.008em;
+
+  color: #f4f3ea;
+}
+
+.phone_number {
+  position: absolute;
+  width: 110.16px;
+  height: 16px;
+  left: -1000px;
+  top: 770px;
+
+  font-family: ABC Favorit Mono Trial Light;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.008em;
+
+  color: #f4f3ea;
+}
+
+.email_adress {
+  position: absolute;
+  width: 172.75px;
+  height: 17px;
+  left: -1000px;
+  top: 785px;
+
+  font-family: ABC Favorit Mono Variable Light;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.008em;
+
+  color: #f4f3ea;
+}
+
+.line {
+  position: absolute;
+  width: 1765.01px;
+  height: 0px;
+  left: -1060px;
+  top: 700px;
+
+  border-bottom: 1px solid rgb(255, 255, 255);
+}
+
+.About_me_top {
+  position: absolute;
+  width: 200px;
+  height: 17px;
+  left: 500px;
+  top: -215px;
+
+
+
+
+  color: #f4f3ea;
+}
+
+
+.dont_be_a_stranger {
+
+  position: absolute;
+  width: 300px;
+  height: 13px;
+  right: 789px;
+  top: 760px;
+
+  font-family: ABC Favorit Mono Trial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 108.5%;
+
+  letter-spacing: 0.165em;
+
+  color: #FFFFFF;
+
+
+}
+
+.hello {
+
+  color: #af47b1;
+
+}
+
+
+
+button {
+
+  position: absolute;
+  padding: 5px 10px;
+  margin: 5px;
+  border-radius: 3px;
+  left: -620px;
+  bottom: 65px;
+
+}
+
+/* Responsive design: brytpunkt 480px - mobile device */
+@media (max-width: 480px) {
+
+  .landing_page {
+
+    position: absolute;
+    width: 550px;
+    height: 990px;
+    left: 0px;
+    top: 0px;
+
+    background: #1A26D4;
+
+  }
+
+
+}
+
+@media (max-width: 480px) {
+
+  .ux_projects {
+
+    position: absolute;
+    width: 209.07px;
+    height: 37.8px;
+    left: 22px;
+    top: 85.88px;
+
+    font-family: ABC Favorit Mono Trial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 108.5%;
+    letter-spacing: 0.165em;
+
+    color: #FFFFFF;
+
+
+
+  }
+
+
+  @media (max-width:480px) {
+
+    .hello-world-my-name {
+
+      position: absolute;
+      width: 430px;
+      height: 133px;
+      left: calc(50% - 338px/2 - 29px);
+      top: 187px;
+
+      font-family: ABC Favorit Lining Trial;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 18px;
+      line-height: 140.5%;
+
+
+      letter-spacing: 0.035em;
+
+
+      color: #F4F3EA;
+
+    }
+
+
+
+  }
+
+
+  @media (max-width: 480px) {
+
+    .About_me_top {
+
+      position: absolute;
+      width: 148.5px;
+      height: 26.44px;
+      left: 244.5px;
+      top: -90px;
+
+      font-family: ABC Favorit Mono Trial;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 11px;
+      line-height: 16px;
+
+      letter-spacing: 0.175em;
+      text-decoration-line: underline;
+
+      color: #F4F3EA;
+
+
+
+
+    }
+
+  }
+
+  @media (max-width: 480px) {
+
+    .rectangle_1 {
+
+      position: absolute;
+      width: 343px;
+      height: 221px;
+      left: 35px;
+      right: 104px;
+      top: calc(50% - 221px/2 + 40.5px);
+
+      background: rgba(255, 255, 255, 0.86);
+
+
+
+    }
+  }
+
+  @media (max-width:480px) {
+
+    .rectangle_2 {
+
+      Display: none;
+    }
+  }
+
+  @media (max-width: 480px) {
+
+    .HeartAero_Space {
+
+      Display: none;
+
+
+    }
+  }
+
+  @media (max-width:480px) {
+
+    .year_2021 {
+
+      Display: none;
+    }
+  }
+
+  @media (max-width: 480px) {
+
+    .navbar {
+
+      position: absolute;
+      width: 500px;
+      height: 62px;
+      left: 6px;
+      right: 80x;
+      top: 64px;
+
+      border: 1px solid #C4C4C4;
+      box-sizing: border-box;
+
+    }
+  }
+
+
+  @media (max-width: 480px) {
+
+    .breath_app_inside {
+
+      position: absolute;
+      width: 151.52px;
+      height: 34.39px;
+      left: 122px;
+      top: 427px;
+
+      font-family: ABC Favorit Mono Trial;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 151.5%;
+
+      letter-spacing: 0.165em;
+
+      color: #1A26D4;
+
+
+    }
+  }
+
+  @media (max-width: 480px) {
+
+    .breath_app_inside_yellow {
+
+      position: absolute;
+      width: 151.52px;
+      height: 28.4px;
+      left: 122.04px;
+      top: 440px;
+
+      font-family: ABC Favorit Mono Trial;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 151.5%;
+
+      letter-spacing: 0.165em;
+
+      color: #F4F3EA;
+
+      transform: matrix(1, 0, 0, -1, 0, 0);
+
+    }
+  }
+
+
+  @media(max-width: 480px) {
+
+    .Breath_App {
+
+      position: absolute;
+      width: 320px;
+      height: 54px;
+      left: 50px;
+      top: 600px;
+      font-family: ABC Favorit Trial;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 11px;
+      letter-spacing: 0.165em;
+      color: #f4f3ea;
+
+    }
+  }
+
+
+  @media (max-width: 480px) {
+
+    .year_2021_2022 {
+
+
+
+      position: absolute;
+      width: 320px;
+      height: 54px;
+      left: 50px;
+      top: 625px;
+
+
+      font-family: ABC Favorit Trial;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 12px;
+      line-height: 80%;
+
+      letter-spacing: 0.165em;
+
+      color: #F4F3EA;
+
+
+    }
+  }
+
+  /* Display none - element/objekt som går bort för brytpunkt 480px */
+
+  @media (max-width: 480px) {
+
+    .line {
+
+      Display: none;
+
+
+    }
+  }
+
+  @media (max-width: 480px) {
+
+    .HeartAero_Space_inside {
+
+      display: none;
+    }
+
+
+  }
+
+
+
+  @media (max-width: 480px) {
+
+    .heartaero_space_inside_yellow {
+
+      display: none;
+    }
+
+  }
+
+
+  @media (max-width: 480px) {
+
+    .other_projects {
+
+      display: none;
+
+
+    }
+  }
+
+  @media (max-width: 480px) {
+
+    .instagram {
+
+      display: none;
+    }
+
+
+  }
+
+  @media (max-width: 480px) {
+
+    .linkedIn {
+
+      display: none;
+
+    }
+
+
+  }
+
+  }
